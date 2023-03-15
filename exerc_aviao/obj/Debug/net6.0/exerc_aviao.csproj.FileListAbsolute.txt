@@ -1,0 +1,15 @@
+C:\Users\gicar\Desktop\exerc_aviao\bin\Debug\net6.0\exerc_aviao.exe
+C:\Users\gicar\Desktop\exerc_aviao\bin\Debug\net6.0\exerc_aviao.deps.json
+C:\Users\gicar\Desktop\exerc_aviao\bin\Debug\net6.0\exerc_aviao.runtimeconfig.json
+C:\Users\gicar\Desktop\exerc_aviao\bin\Debug\net6.0\exerc_aviao.dll
+C:\Users\gicar\Desktop\exerc_aviao\bin\Debug\net6.0\exerc_aviao.pdb
+C:\Users\gicar\Desktop\exerc_aviao\obj\Debug\net6.0\exerc_aviao.csproj.AssemblyReference.cache
+C:\Users\gicar\Desktop\exerc_aviao\obj\Debug\net6.0\exerc_aviao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gicar\Desktop\exerc_aviao\obj\Debug\net6.0\exerc_aviao.AssemblyInfoInputs.cache
+C:\Users\gicar\Desktop\exerc_aviao\obj\Debug\net6.0\exerc_aviao.AssemblyInfo.cs
+C:\Users\gicar\Desktop\exerc_aviao\obj\Debug\net6.0\exerc_aviao.csproj.CoreCompileInputs.cache
+C:\Users\gicar\Desktop\exerc_aviao\obj\Debug\net6.0\exerc_aviao.dll
+C:\Users\gicar\Desktop\exerc_aviao\obj\Debug\net6.0\refint\exerc_aviao.dll
+C:\Users\gicar\Desktop\exerc_aviao\obj\Debug\net6.0\exerc_aviao.pdb
+C:\Users\gicar\Desktop\exerc_aviao\obj\Debug\net6.0\exerc_aviao.genruntimeconfig.cache
+C:\Users\gicar\Desktop\exerc_aviao\obj\Debug\net6.0\ref\exerc_aviao.dll
