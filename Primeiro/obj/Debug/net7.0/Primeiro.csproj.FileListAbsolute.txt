@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Primeiro\bin\Debug\net7.0\Primeiro.exe
+C:\Users\LAB4\Desktop\Primeiro\bin\Debug\net7.0\Primeiro.deps.json
+C:\Users\LAB4\Desktop\Primeiro\bin\Debug\net7.0\Primeiro.runtimeconfig.json
+C:\Users\LAB4\Desktop\Primeiro\bin\Debug\net7.0\Primeiro.dll
+C:\Users\LAB4\Desktop\Primeiro\bin\Debug\net7.0\Primeiro.pdb
+C:\Users\LAB4\Desktop\Primeiro\obj\Debug\net7.0\Primeiro.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Primeiro\obj\Debug\net7.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Primeiro\obj\Debug\net7.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Primeiro\obj\Debug\net7.0\Primeiro.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Primeiro\obj\Debug\net7.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Primeiro\obj\Debug\net7.0\Primeiro.dll
+C:\Users\LAB4\Desktop\Primeiro\obj\Debug\net7.0\refint\Primeiro.dll
+C:\Users\LAB4\Desktop\Primeiro\obj\Debug\net7.0\Primeiro.pdb
+C:\Users\LAB4\Desktop\Primeiro\obj\Debug\net7.0\Primeiro.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Primeiro\obj\Debug\net7.0\ref\Primeiro.dll
