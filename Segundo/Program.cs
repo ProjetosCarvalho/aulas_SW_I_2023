@@ -1,20 +1,25 @@
-﻿namespace Segundo;
+﻿﻿namespace Segundo;
 class Program
 {
     static void Main(string[] args)
     {
         ContratoPessoaFisica n1 = new ContratoPessoaFisica();
         ContratoPessoaJuridica n2 = new ContratoPessoaJuridica();
-        Contrato n3 = new Contrato();
 
-        n3.Email = "fulano@gmail.com";
-        n3.Nome = "Fulano";
-        n3.Telefone = "(11) 91234-4321";
-        n2.cnpj = "12.345.678/0001-00";
-        n2.ie = "";
-        n2.NomeEmpresa = "Empresa X";
+        n1.Email = "fulano@gmail.com";
+        n1.Nome = "Fulano";
+        n1.Telefone = "(11) 91234-4321";
         n1.cpf = "000.111.222-33";
         n1.Idade = 19;
+
+
+        n2.Email = "informatic@gmail.com";
+        n2.Nome = "Silva";
+        n2.Telefone = "(11) 94090-8177";
+        n2.cnpj = "12.345.678/0001-00";
+        n2.ie = "142.270.790.110";
+        n2.NomeEmpresa = "Empresa Informatic";
+        
 
         Console.WriteLine("Os dados Pessoa Física são: " + n1.MostraDados());
         Console.WriteLine("Os dados Pessoa Jurídica são: " + n2.MostraDados());
