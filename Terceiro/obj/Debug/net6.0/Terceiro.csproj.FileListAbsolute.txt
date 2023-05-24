@@ -1,0 +1,15 @@
+C:\Users\gicar\Desktop\Terceiro\bin\Debug\net6.0\Terceiro.exe
+C:\Users\gicar\Desktop\Terceiro\bin\Debug\net6.0\Terceiro.deps.json
+C:\Users\gicar\Desktop\Terceiro\bin\Debug\net6.0\Terceiro.runtimeconfig.json
+C:\Users\gicar\Desktop\Terceiro\bin\Debug\net6.0\Terceiro.dll
+C:\Users\gicar\Desktop\Terceiro\bin\Debug\net6.0\Terceiro.pdb
+C:\Users\gicar\Desktop\Terceiro\obj\Debug\net6.0\Terceiro.csproj.AssemblyReference.cache
+C:\Users\gicar\Desktop\Terceiro\obj\Debug\net6.0\Terceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gicar\Desktop\Terceiro\obj\Debug\net6.0\Terceiro.AssemblyInfoInputs.cache
+C:\Users\gicar\Desktop\Terceiro\obj\Debug\net6.0\Terceiro.AssemblyInfo.cs
+C:\Users\gicar\Desktop\Terceiro\obj\Debug\net6.0\Terceiro.csproj.CoreCompileInputs.cache
+C:\Users\gicar\Desktop\Terceiro\obj\Debug\net6.0\Terceiro.dll
+C:\Users\gicar\Desktop\Terceiro\obj\Debug\net6.0\refint\Terceiro.dll
+C:\Users\gicar\Desktop\Terceiro\obj\Debug\net6.0\Terceiro.pdb
+C:\Users\gicar\Desktop\Terceiro\obj\Debug\net6.0\Terceiro.genruntimeconfig.cache
+C:\Users\gicar\Desktop\Terceiro\obj\Debug\net6.0\ref\Terceiro.dll
